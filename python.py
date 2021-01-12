@@ -11,3 +11,5 @@ print('line A\n line B\n line C')
 print ('line A \tline B')
 # print double backslash
 print ('this is double \\\\ back slash')
+# print mountain
+print ('this is /\/\/\/\ mountain')
