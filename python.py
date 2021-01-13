@@ -13,3 +13,5 @@ print ('line A \tline B')
 print ('this is double \\\\ back slash')
 # print mountain
 print ('this is /\/\/\/\ mountain')
+# to remove escape sequence and print array
+print(r"lina\n A Line B")
