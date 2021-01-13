@@ -7,3 +7,4 @@ print (3%2) # Module, gives remainder
 print (2%2)
 print(round(2/3,2)) #round function
 print (2**5) # exponent i.e. 2 to the power 5
+print (2**5**2) # associative rule i.e exponents are calculated from right to left
