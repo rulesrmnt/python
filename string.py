@@ -10,8 +10,8 @@ print (name2[1:9:2]) #print alternate characters
 print (name2[::-1])
 print (name2[::-1])
 #user input and print in reverse order
-# name3=input("enter usename : ")
-# print(name3[::-1])
+name3=input("enter usename : ")
+print(name3[::-1])
 
 print (len(name2))
 print (name2.upper()) #upper case 
@@ -28,5 +28,5 @@ print(name4.lstrip()+dot)
 print(name4.rstrip()+dot)
 print(name4.strip()+dot)
 print(name4.replace(" ","_"))
-asd=(name4.replace(" ","",1))
+asd=(name4.replace(" ",""))
 print(asd.center(25,'*'))
