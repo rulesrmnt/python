@@ -25,3 +25,8 @@ print("Average of three numbers is " + str(Average))
 num1, num2, num3=input('enter 3 no : ').split(",")
 Average=(int(num1) + int(num2) +int(num3))//3
 print("Average of three numbers is " + str(Average))
+
+name,roll_no, clas, school=input("Enter student details : ").split(",")
+print (name,roll_no,clas,school)
+print(f"Student name is {name} whos roll number is {roll_no} studies in class {clas} of {school} school") 
+print(f'{name}\n{roll_no}\n{clas}\n{school}')
